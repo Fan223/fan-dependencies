@@ -1,3 +1,3 @@
 # Fan-Dependencies
 
-Unified Top-Level Dependency Management.
+Unified Top-level Dependency Management.
